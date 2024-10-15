@@ -30,7 +30,9 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/2190a48c-9379-48b5-9713-79d624488cc6)
+![image](https://github.com/user-attachments/assets/fb795977-f762-4516-9bbb-e48639acc8c3)
+![image](https://github.com/user-attachments/assets/b7c29970-cd10-4683-85e1-a92258489795)
+
 
 ### Evidencia de autoría
 <a href="https://github.com/user-attachments/files/17335387/LECCION02_NayeliMoyaDiaz.pdf">
