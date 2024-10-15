@@ -12,12 +12,13 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 ## 01: Prototipo 1.
 ### Link del proyecto
-<a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Prototipo%201.unitypackage">
+<a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/prototipo1.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/5ff69f88-5fad-42c9-a1e8-e90e2c4246c8)
+![image](![Captura de pantalla 2024-10-10 192913](https://github.com/user-attachments/assets/c47eb157-0ce9-4b0a-a26a-9471af71021f)
+)
 
 ### Evidencia de autoría
 (se omite en este caso ya que este se realizó en la U1 y aún no se daba la indicación)
