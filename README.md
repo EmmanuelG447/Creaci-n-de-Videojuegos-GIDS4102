@@ -54,7 +54,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 ## 03: Desafío 2.
 ### Link del proyecto
-<a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/Challenge%201%20avion.unitypackage">
+<a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/Desafio%202.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
