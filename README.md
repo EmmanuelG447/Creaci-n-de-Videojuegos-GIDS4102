@@ -9,6 +9,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 - [01: Prototipo 1.](#01-Prototipo-1)
 - [02: Prototipo 2.](#02-Prototipo-2)
 - [03: Desafío 1.](#03-Desafío-1)
+- [04: Desafío 2.](#04-Desafío-2)
 
 ## 01: Prototipo 1.
 ### Link del proyecto
@@ -52,7 +53,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ![image](https://github.com/user-attachments/assets/98a4df4f-1f13-4195-a9aa-76efeadff211)
 ![image](https://github.com/user-attachments/assets/db7077f7-8214-448c-9cec-816cb86886e4)
 
-## 03: Desafío 2.
+## 04: Desafío 2.
 ### Link del proyecto
 <a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/Desafio%202.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
