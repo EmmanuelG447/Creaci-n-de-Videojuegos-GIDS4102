@@ -30,12 +30,14 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/fb795977-f762-4516-9bbb-e48639acc8c3)
-![image](https://github.com/user-attachments/assets/b7c29970-cd10-4683-85e1-a92258489795)
+![Captura de pantalla 2024-10-17 170224](https://github.com/user-attachments/assets/7de8eaa5-8ca7-4172-91e7-4743bec996b7)
+![Captura de pantalla 2024-10-17 165820](https://github.com/user-attachments/assets/c6361b83-8a97-452f-ab9e-886d188f47ba)
+
 
 
 ### Evidencia de autoría
-<a href="https://github.com/user-attachments/files/17335387/LECCION02_NayeliMoyaDiaz.pdf">
+<a href=[LECCION02_GutiérrezDíazCristianEmmanuel.pdf](https://github.com/user-attachments/files/17424268/LECCION02_GutierrezDiazCristianEmmanuel.pdf)
+"">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
 
