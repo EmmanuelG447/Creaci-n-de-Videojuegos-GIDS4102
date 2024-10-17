@@ -41,9 +41,11 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 
 ## 03: Desafío 1.
 ### Link del proyecto
-<a href="https://github.com/nayemoya/CreacionDeVideojuegos/blob/main/Desaf%C3%ADo%201.unitypackage">
+<a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/Challenge%201%20avion.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
 </a>
 
 ### Resultado
-![image](https://github.com/user-attachments/assets/c2f39376-1368-4145-8a04-6494b8c27206)
+![image](https://github.com/user-attachments/assets/98a4df4f-1f13-4195-a9aa-76efeadff211)
+![image](https://github.com/user-attachments/assets/db7077f7-8214-448c-9cec-816cb86886e4)
+
