@@ -1,9 +1,9 @@
 # CREACIÓN DE VIDEOJUEGOS
-Repositorio donde se contienen los trabajos realizados en clase de Creación de Videojuegos 2024.
+Repositorio que contiene los trabajos realizados en la clase de Creación de Videojuegos 2024.
 
 # U2. PROGRAMACIÓN ORIENTADA A OBJETOS PARA VIDEOJUEGOS
-## Gutiérrez Díaz Cristian Emmanuel
-## GIDS4102
+**Gutiérrez Díaz Cristian Emmanuel**  
+**GIDS4102**
 
 ### *TABLA DE CONTENIDO*
 - [01: Prototipo 1](#01-prototipo-1)
@@ -11,6 +11,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 - [03: Desafío 1](#03-desafío-1)
 - [04: Desafío 2](#04-desafío-2)
 - [05: Prototipo 3 - Desafío 3](#05-prototipo-3---desafío-3)
+- [06: Prototipo 4 - Desafío 4](#06-prototipo-4---desafío-4)
 
 ---
 
@@ -24,7 +25,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ![Captura de pantalla 2024-10-10 192913](https://github.com/user-attachments/assets/79a6320a-58da-4b02-8ca6-a920b4973154)
 
 ### Evidencia de autoría
-_(se omite en este caso ya que este se realizó en la U1 y aún no se daba la indicación)_
+_(Se omite en este caso ya que se realizó en la U1 y aún no se daba la indicación)_
 
 ---
 
@@ -81,5 +82,22 @@ _(se omite en este caso ya que este se realizó en la U1 y aún no se daba la in
 
 ### Evidencia de autoría
 <a href="https://github.com/user-attachments/files/17535356/Prototipo.3.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+</a>
+
+---
+
+## 06: Prototipo 4 - Desafío 4
+### Link del proyecto
+<a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/Prototipo%204%20-%20Desafio%204.unitypackage">
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
+</a>
+
+### Resultado
+![Captura de pantalla 2024-10-27 173558](https://github.com/user-attachments/assets/9158c3b4-d3db-4465-b33d-56d6f782c083)
+![Captura de pantalla 2024-10-27 173735](https://github.com/user-attachments/assets/e48fec7c-1aad-46b7-8503-18acf6482a89)
+
+### Evidencia de autoría
+<a href="https://github.com/user-attachments/files/17535772/Prototipo.4.pdf" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
