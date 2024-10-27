@@ -10,6 +10,7 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 - [02: Prototipo 2.](#02-Prototipo-2)
 - [03: Desafío 1.](#03-Desafío-1)
 - [04: Desafío 2.](#04-Desafío-2)
+- [05: Prototipo 3 - Desafío 3](#05-prototipo-3---desafío-3)
 
 ## 01: Prototipo 1.
 ### Link del proyecto
@@ -62,3 +63,22 @@ Repositorio donde se contienen los trabajos realizados en clase de Creación de 
 ### Resultado
 ![Captura de pantalla 2024-10-14 194928](https://github.com/user-attachments/assets/efff87d4-daef-4336-8980-b3646ad09a2a)
 ![Captura de pantalla 2024-10-17 171650](https://github.com/user-attachments/assets/11597e1a-4afd-4d0e-a734-f4b7f015ae22)
+
+## 05: Prototipo 3 - Desafio 3.
+### Link del proyecto
+<a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/Prototipo%203%20-%20Desafio%203.unitypackage">
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
+</a>
+
+### Resultado
+![Captura de pantalla 2024-10-27 142027](https://github.com/user-attachments/assets/a063d1b4-7f45-4ed3-8236-2d6503806284)
+![Captura de pantalla 2024-10-27 142041](https://github.com/user-attachments/assets/c647fae9-edec-4c7d-9158-352bd65e4d15)
+
+
+
+
+### Evidencia de autoría
+<a href="https://github.com/user-attachments/files/17535356/Prototipo.3.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+</a>
+
