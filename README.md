@@ -12,6 +12,7 @@ Repositorio que contiene los trabajos realizados en la clase de Creación de Vid
 - [04: Desafío 2](#04-desafío-2)
 - [05: Prototipo 3 - Desafío 3](#05-prototipo-3---desafío-3)
 - [06: Prototipo 4 - Desafío 4](#06-prototipo-4---desafío-4)
+- [07: Prototipo 5 - Desafío 5](#07-prototipo-5---desafío-5)
 
 ---
 
@@ -99,5 +100,22 @@ _(Se omite en este caso ya que se realizó en la U1 y aún no se daba la indicac
 
 ### Evidencia de autoría
 <a href="https://github.com/user-attachments/files/17535772/Prototipo.4.pdf" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
+</a>
+
+---
+
+## 07: Prototipo 5 - Desafío 5
+### Link del proyecto
+<a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/Prototipo%205%20-%20Desafio%205.unitypackage">
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
+</a>
+
+### Resultado
+![Captura de pantalla 2024-10-27 203856](https://github.com/user-attachments/assets/be63adf3-aeb5-4ced-9ca2-a2098286a42f)
+![Captura de pantalla 2024-10-27 203755](https://github.com/user-attachments/assets/bd98fc82-edd5-4173-bb44-9f2260e30b8c)
+
+### Evidencia de autoría
+<a href="https://github.com/user-attachments/files/17536687/Prototipo.5.pdf" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/PDF_file_icon.svg" alt="PDF" width="30"/>
 </a>
