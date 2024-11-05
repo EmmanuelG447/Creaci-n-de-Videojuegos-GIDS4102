@@ -10,9 +10,9 @@ Repositorio que contiene los trabajos realizados en la clase de Creación de Vid
 - [02: Prototipo 2](#02-prototipo-2)
 - [03: Desafío 1](#03-desafío-1)
 - [04: Desafío 2](#04-desafío-2)
-- [05: Prototipo 3 - Desafío 3](#05-prototipo-3---desafío-3)
-- [06: Prototipo 4 - Desafío 4](#06-prototipo-4---desafío-4)
-- [07: Prototipo 5 - Desafío 5](#07-prototipo-5---desafío-5)
+- [05: Prototipo 3](#05-prototipo-3---desafío-3)
+- [06: Prototipo 4](#06-prototipo-4---desafío-4)
+- [07: Prototipo 5](#07-prototipo-5---desafío-5)
 
 ---
 
@@ -71,7 +71,7 @@ _(Se omite en este caso ya que se realizó en la U1 y aún no se daba la indicac
 
 ---
 
-## 05: Prototipo 3 - Desafío 3
+## 05: Prototipo 3
 ### Link del proyecto
 <a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/Prototipo%203%20-%20Desafio%203.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
@@ -88,7 +88,7 @@ _(Se omite en este caso ya que se realizó en la U1 y aún no se daba la indicac
 
 ---
 
-## 06: Prototipo 4 - Desafío 4
+## 06: Prototipo 4
 ### Link del proyecto
 <a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/Prototipo%204%20-%20Desafio%204.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
@@ -105,7 +105,7 @@ _(Se omite en este caso ya que se realizó en la U1 y aún no se daba la indicac
 
 ---
 
-## 07: Prototipo 5 - Desafío 5
+## 07: Prototipo 5
 ### Link del proyecto
 <a href="https://github.com/EmmanuelG447/Creaci-n-de-Videojuegos-GIDS4102/blob/main/Prototipo%205%20-%20Desafio%205.unitypackage">
     <img src="https://cdn-icons-png.flaticon.com/128/733/733553.png" alt="GitHub" width="40"/>
