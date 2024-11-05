@@ -10,9 +10,9 @@ Repositorio que contiene los trabajos realizados en la clase de Creación de Vid
 - [02: Prototipo 2](#02-prototipo-2)
 - [03: Desafío 1](#03-desafío-1)
 - [04: Desafío 2](#04-desafío-2)
-- [05: Prototipo 3](#05-prototipo-3---desafío-3)
-- [06: Prototipo 4](#06-prototipo-4---desafío-4)
-- [07: Prototipo 5](#07-prototipo-5---desafío-5)
+- [05: Prototipo 3](#05-prototipo-3)
+- [06: Prototipo 4](#06-prototipo-4)
+- [07: Prototipo 5](#07-prototipo-5)
 
 ---
 
